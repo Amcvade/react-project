@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-
+node_modules/react-bootstrap
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
